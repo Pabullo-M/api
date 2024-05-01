@@ -44,13 +44,13 @@
     },
     {
       "nome": "Monitor LED",
-      "foto": "https://example.com/monitor.jpg",
+      "foto": "https://waz.vteximg.com.br/arquivos/ids/218229-1000-1000/124414-1-Monitor_LED_24pol_Samsung_LF24T350_IPS_Full_HD_HDMI_VGA_FreeSync_124414.jpg?v=637812314751100000",
       "preco": 300,
       "categoriaId": 1
     },
     {
       "nome": "Câmera Digital",
-      "foto": "https://example.com/camera.jpg",
+      "foto": "https://s2-techtudo.glbimg.com/yR9fC8ZXJrhIz_34SHXWuNmqXrk=/0x0:695x420/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/q/Y/BYwVOXQOiutX4Ob7hxfg/2016-03-24-camera-digital-nikon-l840.jpg",
       "preco": 450,
       "categoriaId": 1
     },
@@ -62,67 +62,67 @@
     },
     {
       "nome": "Microondas",
-      "foto": "https://example.com/microondas.jpg",
+      "foto": "https://a-static.mlcdn.com.br/450x450/microondas-panasonic-tecnologia-antibacteria-ag-34l-inox-st67lsru/panasonicoficial/45063/9254853ab12fecbaa3372be6785d26c6.jpeg",
       "preco": 200,
       "categoriaId": 2
     },
     {
       "nome": "Lavadora de Roupas",
-      "foto": "https://example.com/lavadora.jpg",
+      "foto": "https://s2.glbimg.com/NzitoDQGhjN6--RWdU8z85QMKmw=/e.glbimg.com/og/ed/f/original/2018/12/21/lava__seca_samsung_wd4000_de_10.2kg.jpg",
       "preco": 1500,
       "categoriaId": 2
     },
     {
       "nome": "Sofá Retrátil",
-      "foto": "https://example.com/sofa.jpg",
+      "foto": "https://cdn.awsli.com.br/600x450/1913/1913169/produto/229904771/whatsapp-image-2020-10-24-at-10-58-511-9a81485520e60b44b416535777494731-640-0-fnewurtsyf.jpeg",
       "preco": 800,
       "categoriaId": 3
     },
     {
       "nome": "Mesa de Centro",
-      "foto": "https://example.com/mesacentro.jpg",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_760645-MLB69507208651_052023-O.webp",
       "preco": 250,
       "categoriaId": 3
     },
     {
       "nome": "Estante",
-      "foto": "https://example.com/estante.jpg",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNx8zwXgTSyadAVrlxz__YP1W8RocPofJ7Yb8iHHKYZQ&s",
       "preco": 500,
       "categoriaId": 3
     },
     {
       "nome": "Camiseta",
-      "foto": "https://example.com/camiseta.jpg",
+      "foto": "https://img.lojasrenner.com.br/item/622837391/large/3.jpg",
       "preco": 50,
       "categoriaId": 4
     },
     {
       "nome": "Jeans",
-      "foto": "https://example.com/jeans.jpg",
+      "foto": "https://salvatore.vteximg.com.br/arquivos/ids/182334-960-1440/Salvatore-2045.jpg?v=638318668931030000",
       "preco": 100,
       "categoriaId": 4
     },
     {
       "nome": "Vestido",
-      "foto": "https://example.com/vestido.jpg",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGuDB3kcK9Cj-oL3Yi-oTHt-X_rXB5YAqmnVcN_7dYVw&s",
       "preco": 150,
       "categoriaId": 4
     },
     {
       "nome": "Bicicleta",
-      "foto": "https://example.com/bicicleta.jpg",
+      "foto": "https://mpozenato.fbitsstatic.net/img/p/bicicleta-july-infantil-juvenil-aro-20-aco-com-cestinha-e-freio-v-brake-rosa-neon-colli-bike-120066/285868.jpg?w=600&h=600&v=no-value",
       "preco": 900,
       "categoriaId": 5
     },
     {
       "nome": "Tênis de Corrida",
-      "foto": "https://example.com/tenis.jpg",
+      "foto": "https://i0.wp.com/www.perunning.com.br/wp-content/uploads/2023/05/olympikus-corre3-tenis-corrida-confortavel.jpg?fit=1280%2C720&ssl=1",
       "preco": 120,
       "categoriaId": 5
     },
     {
       "nome": "Kit de Musculação",
-      "foto": "https://example.com/kitmusculacao.jpg",
+      "foto": "https://m.media-amazon.com/images/I/51HRKwTUb-L._AC_UF1000,1000_QL80_.jpg",
       "preco": 300,
       "categoriaId": 5
     }
