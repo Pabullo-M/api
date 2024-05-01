@@ -4,7 +4,7 @@
       "nome": "pabullo",
       "senha": "123456"
     },
-     {
+    {
       "nome": "usuario2",
       "senha": "123456"
     },
@@ -12,18 +12,41 @@
       "nome": "usuario3",
       "senha": "123456"
     }
-    
   ],
-  "Produto": [
-      {
-        "nome": "Televisão",
-        "foto": "https://wx.mlcdn.com.br/ponzi/production/portaldalu/31726_01.jpg",
-        "preco": 1000
-      },
+  "categorias": [
     {
-        "nome": "Geladeira",
-        "foto": "https://brastemp.vtexassets.com/arquivos/ids/231146/geladeira-brastemp-bro85ak-frontal-1.jpg?v=637999077275730000",
-        "preco": 1200
-      }
+      "id": 1,
+      "nome": "Eletrônicos"
+    },
+    {
+      "id": 2,
+      "nome": "Eletrodomésticos"
+    },
+    {
+      "id": 3,
+      "nome": "Móveis"
+    },
+    {
+      "id": 4,
+      "nome": "Roupas"
+    },
+    {
+      "id": 5,
+      "nome": "Esportes"
+    }
+  ],
+  "produtos": [
+    {
+      "nome": "Televisão",
+      "foto": "https://wx.mlcdn.com.br/ponzi/production/portaldalu/31726_01.jpg",
+      "preco": 1000,
+      "categoriaId": 1
+    },
+    {
+      "nome": "Geladeira",
+      "foto": "https://brastemp.vtexassets.com/arquivos/ids/231146/geladeira-brastemp-bro85ak-frontal-1.jpg?v=637999077275730000",
+      "preco": 1200,
+      "categoriaId": 2
+    }
   ]
 }
