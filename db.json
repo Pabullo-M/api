@@ -37,9 +37,21 @@
   ],
   "produtos": [
     {
-      "nome": "Televisão",
+      "nome": "Televisão 4K",
       "foto": "https://wx.mlcdn.com.br/ponzi/production/portaldalu/31726_01.jpg",
       "preco": 1000,
+      "categoriaId": 1
+    },
+    {
+      "nome": "Monitor LED",
+      "foto": "https://example.com/monitor.jpg",
+      "preco": 300,
+      "categoriaId": 1
+    },
+    {
+      "nome": "Câmera Digital",
+      "foto": "https://example.com/camera.jpg",
+      "preco": 450,
       "categoriaId": 1
     },
     {
@@ -47,6 +59,73 @@
       "foto": "https://brastemp.vtexassets.com/arquivos/ids/231146/geladeira-brastemp-bro85ak-frontal-1.jpg?v=637999077275730000",
       "preco": 1200,
       "categoriaId": 2
+    },
+    {
+      "nome": "Microondas",
+      "foto": "https://example.com/microondas.jpg",
+      "preco": 200,
+      "categoriaId": 2
+    },
+    {
+      "nome": "Lavadora de Roupas",
+      "foto": "https://example.com/lavadora.jpg",
+      "preco": 1500,
+      "categoriaId": 2
+    },
+    {
+      "nome": "Sofá Retrátil",
+      "foto": "https://example.com/sofa.jpg",
+      "preco": 800,
+      "categoriaId": 3
+    },
+    {
+      "nome": "Mesa de Centro",
+      "foto": "https://example.com/mesacentro.jpg",
+      "preco": 250,
+      "categoriaId": 3
+    },
+    {
+      "nome": "Estante",
+      "foto": "https://example.com/estante.jpg",
+      "preco": 500,
+      "categoriaId": 3
+    },
+    {
+      "nome": "Camiseta",
+      "foto": "https://example.com/camiseta.jpg",
+      "preco": 50,
+      "categoriaId": 4
+    },
+    {
+      "nome": "Jeans",
+      "foto": "https://example.com/jeans.jpg",
+      "preco": 100,
+      "categoriaId": 4
+    },
+    {
+      "nome": "Vestido",
+      "foto": "https://example.com/vestido.jpg",
+      "preco": 150,
+      "categoriaId": 4
+    },
+    {
+      "nome": "Bicicleta",
+      "foto": "https://example.com/bicicleta.jpg",
+      "preco": 900,
+      "categoriaId": 5
+    },
+    {
+      "nome": "Tênis de Corrida",
+      "foto": "https://example.com/tenis.jpg",
+      "preco": 120,
+      "categoriaId": 5
+    },
+    {
+      "nome": "Kit de Musculação",
+      "foto": "https://example.com/kitmusculacao.jpg",
+      "preco": 300,
+      "categoriaId": 5
     }
   ]
+  
 }
