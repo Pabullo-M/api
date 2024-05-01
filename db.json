@@ -3,7 +3,16 @@
     {
       "nome": "pabullo",
       "senha": "123456"
+    },
+     {
+      "nome": "usuario2",
+      "senha": "123456"
+    },
+    {
+      "nome": "usuario3",
+      "senha": "123456"
     }
+    
   ],
   "profile": {
     "name": "typicode"
