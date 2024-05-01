@@ -4,5 +4,8 @@
       "nome": "pabullo",
       "senha": "123456"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
