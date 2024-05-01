@@ -13,5 +13,17 @@
       "senha": "123456"
     }
     
+  ],
+  "Produto": [
+      {
+        "nome": "Televisão",
+        "foto": "https://wx.mlcdn.com.br/ponzi/production/portaldalu/31726_01.jpg",
+        "preço": 1000
+      },
+    {
+        "nome": "Geladeira",
+        "foto": "https://brastemp.vtexassets.com/arquivos/ids/231146/geladeira-brastemp-bro85ak-frontal-1.jpg?v=637999077275730000",
+        "preço": 1200
+      }
   ]
 }
